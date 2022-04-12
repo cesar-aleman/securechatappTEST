@@ -36,6 +36,11 @@ FOR MAC!!!
 
 7. Now go to http://localhost/securechatapp/login.php and begin your analysis!!
 
+FOR MAC USERS: unfortunately with the profile picture setup it requires that the picture be saved locally, and this requires additional permission. 
+I would rather not mess with your permissions so please use this pre-created account:
+	username: mac@nopics.com
+	password: password
+
 Once you create an account you can then create a second one to simulate messaging between two people. Once you have done so and sent a couple messages, you
 can go to the myphpadmin page to see the inputted items in the database. You will see that the passwords are encrypted as well as the messages. To do so you
 just have to click on the tables 'users' and 'messages' to see their contents. 
