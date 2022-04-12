@@ -25,7 +25,7 @@ FOR MAC!!!
 	-MySQL Database
 	-Apache Web Server
 
-4. Go to 'http://localhost/phpmyadmin/index.php' so that you can view the database GUI and you can load the .sql file to load the database.
+4. Go to http://localhost/phpmyadmin/index.php so that you can view the database GUI and you can load the .sql file to load the database.
 
 5. Select 'New' in the left menu and in the 'Database Name' field input: 
 	securechatapp
@@ -34,9 +34,9 @@ FOR MAC!!!
    Once in the import menu, select 'Choose File' and select the file name 'securechatapp.sql' that is found in the folder where the other source code is. 
    Select 'Go' in the bottom right corner. The database has been created and you should see it in the left hand menu now!
 
-7. Now go to 'http://localhost/securechatapp/login.php' and begin your analysis!!
+7. Now go to http://localhost/securechatapp/login.php and begin your analysis!!
 
-Once you create an accout you can then create a second one to simulate messaging between two people. Once you have done so and sent a couple messages, you
+Once you create an account you can then create a second one to simulate messaging between two people. Once you have done so and sent a couple messages, you
 can go to the myphpadmin page to see the inputted items in the database. You will see that the passwords are encrypted as well as the messages. To do so you
 just have to click on the tables 'users' and 'messages' to see their contents. 
 
